@@ -1,4 +1,4 @@
-# 110B-Project-1
+# 110B-Project-1 Sudoku Solver
 The project show how optimization works in games like Sudoku. It perfectly fits the framework of linear programming, but with integer constraint. For now, we already have learned the Lagrange multipliers for equality constraints, but this project has additional inequality constraints. To experience all data in files, you only need to change “2”in for w in range(2) to len(data).
 # Compile/Run the code
 One can run the code by downloading some test data sets. The test data sets are divided into three categories:
