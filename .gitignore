@@ -1,1 +1,1 @@
-$ git config --global core.excludesfile ~/.gitignore_global
+$ git config --global core.excludesfile /Users/YunweiDu/archive/small1.csv
