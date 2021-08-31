@@ -9,10 +9,10 @@ import scipy.linalg as scl # linear algebra algorithms
 
 
 
-print(os.listdir('/Users/YunweiDu/archive'))
+print(os.listdir('/YunweiDu/archive'))
 
 
-data = pd.read_csv('/Users/YunweiDu/archive/small1.csv')
+data = pd.read_csv('/YunweiDu/archive/small1.csv')
 
 
 
