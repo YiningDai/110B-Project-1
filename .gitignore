@@ -1,1 +1,2 @@
 $ git config --global core.excludesfile /Users/YunweiDu/archive/small1.csv
+$ git config --global core.excludesfile/Users/YunweiDu/archive/small1.csv
