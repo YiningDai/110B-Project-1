@@ -8,7 +8,6 @@ import scipy.sparse as scs # sparse matrix construction
 import scipy.linalg as scl # linear algebra algorithms
 import scipy.optimize as sco # for minimization use
 from scipy.optimize import minimize
-import cvxpy as cvx
 import math
 
 
