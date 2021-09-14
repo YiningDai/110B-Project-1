@@ -63,8 +63,8 @@ def clue_constraint(input_quiz, N=9):
     
 
     CLUE = scs.lil_matrix((len(table.T), N**3))
-    for w in range(len(table.T)):
-        CLUE[i,table[0,w]*N + table[1,w]] = 1
+    for i in range(len(table.T)):
+        CLUE[i,table[0,i]*N + table[1,i]] = 1
 
     CLUE = CLUE.tocsr() 
     
